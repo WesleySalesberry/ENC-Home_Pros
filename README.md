@@ -46,9 +46,9 @@
 
 ## :dart: About ##
 
-Describe your project
+This is a simple demo page for a startup real estate company. On the front end it has several features. It displays the listings of all properties, and allows the user to see the individual property. It will also display the chosen realtors and a special realtor. In the admin panel, it allows the realtor to upload photos of their properties and when a user selects the property, it will send a message to the realtor that is linked to the property.
 
-![ENC-Home-Pro]('./static/images/enc.png')
+![ENC-Home-Pro](static/images/enc.png)
 
 ## :sparkles: Features ##
 
